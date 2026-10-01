@@ -212,7 +212,7 @@ async def main():
     client = AsyncOpenHABClient(
         url="http://192.168.0.5:8080",
         username="openHABAdmin",
-        password="hJem2jz6"
+        password=""
     )
     await client.connect()
 
