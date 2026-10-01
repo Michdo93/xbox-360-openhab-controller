@@ -3,7 +3,7 @@ import pygame
 from openhab import OpenHABClient, Items
 
 
-client = OpenHABClient(url="http://192.168.0.5:8080", username="openHABAdmin", password="hJem2jz6")
+client = OpenHABClient(url="http://192.168.0.5:8080", username="openHABAdmin", password="")
 items = Items(client)
 
 # JOYBUTTONDOWN / JOYBUTTONUP
