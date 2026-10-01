@@ -7,7 +7,7 @@ from openhab import AsyncItems
 
 # === KONFIGURATION ===
 URL      = "http://192.168.0.5:8080"
-PASSWORD = "hJem2jz6"
+PASSWORD = ""
 USERNAME = "openHABAdmin"
 
 # Button Mapping (XBox)
